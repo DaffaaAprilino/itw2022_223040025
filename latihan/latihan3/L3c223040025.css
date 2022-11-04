@@ -1,0 +1,34 @@
+body {
+  background-color: aqua;
+  font-family: Georgia;
+}
+h1 {
+  font-family: Comic Sans MS;
+  font-size: 60px;
+  color: darkblue;
+  text-align: center;
+}
+h4 {
+  text-align: right;
+  text-decoration: italic;
+}
+h3 a {
+  color: white;
+  font-variant: small-caps;
+}
+h3 a:hover {
+  color: crimson;
+}
+.lari a:hover {
+  background-color: blue;
+  color: white;
+}
+p {
+  text-align: center;
+  color: coral;
+}
+
+.lari {
+  text-align: justify;
+  color: black;
+}
